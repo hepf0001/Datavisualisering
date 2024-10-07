@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.26 124.43">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 7.35px;
+      }
+
+      .cls-7 {
+        fill: #f391ab;
+      }
+
+      .cls-8 {
+        fill: #5fb0e2;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 4.88px;
+      }
+
+      .cls-6 {
+        font-size: 7px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="cls-2" x1="26.59" y1="109.06" x2="191.04" y2="109.06"/>
+      <g>
+        <line class="cls-2" x1="26.59" y1="109.06" x2="26.59" y2="106.75"/>
+        <line class="cls-2" x1="63.51" y1="109.06" x2="63.51" y2="106.75"/>
+        <line class="cls-2" x1="96.4" y1="109.06" x2="96.4" y2="106.75"/>
+        <line class="cls-2" x1="129.29" y1="109.06" x2="129.29" y2="106.75"/>
+        <line class="cls-2" x1="162.18" y1="109.06" x2="162.18" y2="106.75"/>
+        <line class="cls-2" x1="195.07" y1="109.06" x2="195.07" y2="106.75"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <text class="cls-3" transform="translate(19.73 111.82) scale(1.05 1)"><tspan x="0" y="0">0</tspan></text>
+        <text class="cls-3" transform="translate(15.44 93.35) scale(1.05 1)"><tspan x="0" y="0">20</tspan></text>
+        <text class="cls-3" transform="translate(15.44 74.88) scale(1.05 1)"><tspan x="0" y="0">40</tspan></text>
+        <text class="cls-3" transform="translate(15.44 56.4) scale(1.05 1)"><tspan x="0" y="0">60</tspan></text>
+        <text class="cls-3" transform="translate(15.44 37.93) scale(1.05 1)"><tspan x="0" y="0">80</tspan></text>
+        <text class="cls-3" transform="translate(11.16 19.46) scale(1.05 1)"><tspan x="0" y="0">100</tspan></text>
+      </g>
+      <line class="cls-2" x1="26.59" y1="109.06" x2="26.59" y2="16.7"/>
+      <g>
+        <line class="cls-2" x1="26.59" y1="109.06" x2="30.7" y2="109.06"/>
+        <line class="cls-2" x1="26.59" y1="90.59" x2="30.7" y2="90.59"/>
+        <line class="cls-2" x1="26.59" y1="72.12" x2="30.7" y2="72.12"/>
+        <line class="cls-2" x1="26.59" y1="53.65" x2="30.7" y2="53.65"/>
+        <line class="cls-2" x1="26.59" y1="35.18" x2="30.7" y2="35.18"/>
+        <line class="cls-2" x1="26.59" y1="16.7" x2="30.7" y2="16.7"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-7" x="208.64" y="16.7" width="20.56" height="9.24"/>
+        <g>
+          <g>
+            <rect class="cls-7" x="47.72" y="35.43" width="11.84" height="73.15"/>
+            <text class="cls-4" transform="translate(50.41 33.94) scale(1.05 1)"><tspan x="0" y="0">80</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="80.61" y="34.81" width="11.84" height="74.26"/>
+            <rect class="cls-7" x="80.61" y="34.32" width="11.84" height="74.26"/>
+            <text class="cls-4" transform="translate(83.3 32.84) scale(1.05 1)"><tspan x="0" y="0">80</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="113.5" y="33.7" width="11.84" height="75.37"/>
+            <rect class="cls-7" x="113.5" y="33.22" width="11.84" height="75.37"/>
+            <text class="cls-4" transform="translate(116.19 31.73) scale(1.05 1)"><tspan x="0" y="0">82</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="146.39" y="32.59" width="11.84" height="76.47"/>
+            <rect class="cls-7" x="146.39" y="32.11" width="11.84" height="76.47"/>
+            <text class="cls-4" transform="translate(149.08 30.62) scale(1.05 1)"><tspan x="0" y="0">82</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="179.28" y="32.03" width="11.84" height="77.03"/>
+            <rect class="cls-7" x="179.28" y="31.55" width="11.84" height="77.03"/>
+            <text class="cls-4" transform="translate(181.97 30.07) scale(1.05 1)"><tspan x="0" y="0">83</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-8" x="208.64" y="30.56" width="20.56" height="9.24"/>
+        <g>
+          <g>
+            <rect class="cls-1" x="34.57" y="39.94" width="11.84" height="68.81"/>
+            <rect class="cls-8" x="34.8" y="39.71" width="11.84" height="68.81"/>
+            <text class="cls-4" transform="translate(37.26 37.98) scale(1.05 1)"><tspan x="0" y="0">74</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="67.46" y="38.96" width="11.84" height="70.1"/>
+            <rect class="cls-8" x="67.46" y="38.5" width="11.84" height="70.1"/>
+            <text class="cls-4" transform="translate(70.15 36.99) scale(1.05 1)"><tspan x="0" y="0">76</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="100.35" y="37.67" width="11.84" height="71.39"/>
+            <rect class="cls-8" x="100.35" y="37.21" width="11.84" height="71.39"/>
+            <text class="cls-4" transform="translate(103.04 35.7) scale(1.05 1)"><tspan x="0" y="0">77</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="133.24" y="36.28" width="11.84" height="72.78"/>
+            <rect class="cls-8" x="133.24" y="35.82" width="11.84" height="72.78"/>
+            <text class="cls-4" transform="translate(135.93 34.31) scale(1.05 1)"><tspan x="0" y="0">79</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="166.13" y="35.54" width="11.84" height="73.52"/>
+            <rect class="cls-8" x="166.13" y="35.08" width="11.84" height="73.52"/>
+            <text class="cls-4" transform="translate(168.82 33.57) scale(1.05 1)"><tspan x="0" y="0">80</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g>
+      <text class="cls-5" transform="translate(231.77 24.08) scale(1.05 1)"><tspan x="0" y="0">Kvinder</tspan></text>
+      <text class="cls-5" transform="translate(231.77 37.93) scale(1.05 1)"><tspan x="0" y="0">Mænd</tspan></text>
+    </g>
+    <g>
+      <text class="cls-5" transform="translate(170.05 116.02) scale(1.05 1)"><tspan x="0" y="0">2020</tspan></text>
+      <text class="cls-5" transform="translate(137.16 116.02) scale(1.05 1)"><tspan x="0" y="0">2015</tspan></text>
+      <text class="cls-5" transform="translate(104.27 116.02) scale(1.05 1)"><tspan x="0" y="0">2010</tspan></text>
+      <text class="cls-5" transform="translate(71.38 116.02) scale(1.05 1)"><tspan x="0" y="0">2005</tspan></text>
+      <text class="cls-5" transform="translate(38.49 116.02) scale(1.05 1)"><tspan x="0" y="0">2000</tspan></text>
+    </g>
+  </g>
+  <line class="cls-2" x1="191.04" y1="109.06" x2="195.58" y2="109.06"/>
+  <text class="cls-6" transform="translate(198.05 109.06) scale(1.05 1)"><tspan x="0" y="0">Årstal</tspan></text>
+  <text class="cls-6" transform="translate(10.62 8.43) scale(1.05 1)"><tspan x="0" y="0">Leveår</tspan></text>
+</svg>
